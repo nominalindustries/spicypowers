@@ -1,5 +1,6 @@
 {
   "name": "spicypowers",
+  "displayName": "SpicyPowers",
   "version": "0.2.0",
   "description": "Skills for working with a spicy brain: brain-dump intake, status translation, chunking, transitions, thread archetypes, and persistent tracking artifacts. The operating layer, no code required.",
   "author": {
