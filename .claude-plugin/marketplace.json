@@ -11,10 +11,7 @@
       "name": "spicypowers",
       "category": "productivity",
       "description": "Skills for working with a spicy brain: brain-dump intake, status translation, chunking, transitions, thread archetypes, and persistent tracking artifacts. No code required.",
-      "source": {
-        "source": "github",
-        "repo": "nominalindustries/spicypowers"
-      },
+      "source": "./",
       "strict": false,
       "skills": [
         "./skills/brain-dump-intake",
