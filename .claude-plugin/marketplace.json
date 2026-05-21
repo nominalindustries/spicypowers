@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "spicypowers",
+  "version": "0.1.0",
+  "description": "Skills for working with a spicy brain: brain-dump intake, status translation, chunking, transitions, thread archetypes, and persistent tracking artifacts. No code required.",
+  "owner": {
+    "name": "Nominal Industries"
+  },
+  "plugins": [
+    {
+      "name": "spicypowers",
+      "category": "productivity",
+      "description": "Skills for working with a spicy brain: brain-dump intake, status translation, chunking, transitions, thread archetypes, and persistent tracking artifacts. No code required.",
+      "source": {
+        "source": "github",
+        "repo": "nominalindustries/spicypowers"
+      },
+      "strict": false,
+      "skills": [
+        "./skills/brain-dump-intake",
+        "./skills/chunking",
+        "./skills/nominal-voice",
+        "./skills/research-adventures",
+        "./skills/riddle-me-this",
+        "./skills/sbtb",
+        "./skills/thread-archetypes",
+        "./skills/tracking-artifacts",
+        "./skills/transitions",
+        "./skills/using-spicypowers"
+      ]
+    }
+  ]
+}
