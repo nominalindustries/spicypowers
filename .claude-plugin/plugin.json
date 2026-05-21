@@ -1,0 +1,12 @@
+{
+  "name": "spicypowers",
+  "version": "0.1.0",
+  "description": "Skills for working with a spicy brain: brain-dump intake, status translation, chunking, transitions, thread archetypes, and persistent tracking artifacts. The operating layer, no code required.",
+  "author": {
+    "name": "Nominal Industries"
+  },
+  "homepage": "https://github.com/nominalindustries/spicypowers",
+  "repository": "https://github.com/nominalindustries/spicypowers",
+  "license": "MIT",
+  "keywords": ["skills", "spicy-brain", "collaboration", "best-practices", "workflows"]
+}
