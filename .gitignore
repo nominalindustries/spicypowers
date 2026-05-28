@@ -5,3 +5,6 @@ build/
 # OS / editor cruft
 .DS_Store
 .claude/
+.worktrees/
+.claude/
+node_modules/
